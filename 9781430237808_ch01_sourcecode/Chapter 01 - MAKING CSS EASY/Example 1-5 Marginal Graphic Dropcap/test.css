@@ -1,0 +1,26 @@
+.indent{
+    margin-left: 120px;
+    position: relative;
+}
+.graphic-dropcap{
+    position: absolute;
+    /* left: 0; */
+    /* top: 0; */
+    /* background: url('m.jpg'); */  
+    /* display: inline-block; */  
+    /* width: 110px; */  
+    /* height: 90px; */
+    margin-left: -120px;
+    /* z-index: 10; */
+}
+#bg-dropcap{
+    position: absolute;
+    left: 0;
+    background: url('m.jpg') no-repeat;
+    /* display: block; */
+    width: 110px;
+    height: 90px;
+    top: 0;
+    /* margin-left: -110px; */
+    /* display: none; */
+}
